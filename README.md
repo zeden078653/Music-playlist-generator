@@ -47,6 +47,7 @@ This will:
 
 📄 Sample Output  
 Recommendations for User 0 (zeden1):
+
 Artist: Gavn!, Score: -340282346638528859811704183484516925440.00
 
 Artist: Bella, Score: -340282346638528859811704183484516925440.00
