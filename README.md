@@ -7,7 +7,7 @@ This project demonstrates how to generate personalized music playlists for users
 🔍 Project Overview  
 Goal: Recommend music tracks to users by analyzing their top artists and interaction data using user-based and item-based collaborative filtering.  
 
-Data Source: Last.fm user listening history via the Last.fm API  
+Data Source: Spotify listening history via the Last.fm API  
 
 Recommendation Methods Used: User-Based Collaborative Filtering, Item-Based Collaborative Filtering  
 
