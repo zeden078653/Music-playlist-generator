@@ -66,3 +66,4 @@ Artist: 347aidan, Score: -340282346638528859811704183484516925440.00
 
 🧑‍💻 Author  
 Mohammad Aman  
+colab link: https://colab.research.google.com/drive/13d3gPH370EYp60GxyFR2aqBEPuVbwXFJ?usp=sharing
